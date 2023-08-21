@@ -1,0 +1,9 @@
+{
+	"geode": "1.1.0",
+	"version": "v1.0.0",
+	"id": "yessy.newgrounds_button_fix",
+	"name": "NG Button Fix",
+	"developer": "Yessy",
+	"description": "Fixes the size of the Newgrounds button on the main menu",
+	"repository": "https://github.com/yessyuwu/gd-newgrounds-button-fix"
+}
